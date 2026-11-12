@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "testMode": true,
+  "testMode": false,
   "adUnits": {
-    "banner": "demo-banner-yandex",
-    "native": "demo-native-content-yandex",
-    "interstitial": "demo-interstitial-yandex",
-    "rewarded": "demo-rewarded-yandex",
-    "appOpen": "demo-appopenad-yandex"
+    "banner": "R-M-20407896-1",
+    "native": "R-M-20407896-2",
+    "interstitial": "R-M-20407896-3",
+    "rewarded": "R-M-20407896-4",
+    "appOpen": "R-M-20407896-5"
   },
   "enabled": true,
   "appOpen": {
